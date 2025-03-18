@@ -3,7 +3,7 @@
 
 int main()
 {
-	printf("Hello mundo");
+	printf("welcome to the 2nd lab of programacao");
 	
 	return 0;
 }
